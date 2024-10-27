@@ -86,4 +86,4 @@ Author: Philipp Acsany
 
 URL: https://realpython.com/build-a-python-url-shortener-with-fastapi/#demo-your-python-url-shortener
 
-Date: 18 May, 2022
+Date: 30 sept, 2024
