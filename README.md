@@ -64,7 +64,6 @@ ii. Run the live server using uvicorn.
 
 - Create SQLite database
 
-> When the server restarted, sqlalchemy automatically created your database in the location that you defined in your DB_URL environment variable. If you used sqlite:///./shortener.db as the value of DB_URL, then there should be a file named shortener.db in the root directory of your project now. That’s your SQLite database!
 
 iii. Open "http://127.0.0.1:8000/docs" in any web browser
 
