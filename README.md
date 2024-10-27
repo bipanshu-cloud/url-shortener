@@ -42,7 +42,7 @@ DB_URL="sqlite:///./XXXXXXXXXX.db"
 i. Clone the git repo
 
 ```
-[https://github.com/AAdewunmi/URL-Shortener-FastAPI-Python.git](https://github.com/bipanshu-cloud/url-shortener/tree/main)
+(https://github.com/bipanshu-cloud/url-shortener/tree/main)
 ```
 
 ii. Open project folder
