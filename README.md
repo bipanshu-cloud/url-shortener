@@ -81,7 +81,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 8. Original Creator:
 
-Author: Philipp Acsany
+Author : Bipanshu Garg
 
 URL: https://realpython.com/build-a-python-url-shortener-with-fastapi/#demo-your-python-url-shortener
 
