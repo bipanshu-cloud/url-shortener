@@ -71,7 +71,7 @@ iii. Open "http://127.0.0.1:8000/docs" in any web browser
 
 ## 6. Demo:
 
-![This is an image](![image](https://github.com/user-attachments/assets/8bdfe65c-ed72-4ab0-8229-56d5d5e87a89)
+![This is an image]![Screenshot 2024-10-27 113438](https://github.com/user-attachments/assets/b2c0db3a-e236-4fb1-86b8-59fb20def0b2)
 )
 
 
